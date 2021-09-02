@@ -7,7 +7,7 @@ plain color polygons.
 
 See [this blog post](http://blog.imagico.de/testing-client-side-map-renderers-on-polygons/) for more details.
 
-![rendered test pattern](https://raw.github.com/imagico/testpatterns/data/supersampled_fullres.png)
+![rendered test pattern](https://github.com/imagico/testpatterns/raw/master/data/supersampled_fullres.png)
 
 ## Prerequisites
 
